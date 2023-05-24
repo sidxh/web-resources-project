@@ -1,7 +1,7 @@
-**NOTE**
--
-The Contributing guidelines have changed so please do check the [Contributing Guidelines](./CONTRIBUTING.md)
--
+ ✨ **NOTE**
+
+🚀🚀 The Contributing guidelines have changed so please do check the [Contributing Guidelines](./CONTRIBUTING.md)
+
 
 
 <h1 align="center">Web Resource Hub 👨‍💻</h1>
@@ -10,6 +10,15 @@ The Contributing guidelines have changed so please do check the [Contributing Gu
 + [**Web Resource Hub**](https://web-resources-hub-project.vercel.app/) is an open-source project developed for the DevJam Hackathon organized by Social Summer of Code. 
 + It serves as a comprehensive collection of **frontend web resources, including HTML, CSS, JavaScript, and React.** 
 + The project aims to provide developers with a **centralized platform** to access a wide range of frontend tools and resources, making their development process more efficient and productive.
+
+## Deployed Links
+
+### Main ->  https://web-resources-hub-project.vercel.app/
+### Dev  ->  https://web-resources-project-dev.vercel.app/
+### qa   ->  https://web-resources-project-qa.vercel.app/
+
+
+
 
 ## 📷 Screenshot 
 ![Screenshot 2023-05-15 094313](https://github.com/jayk-gupta/web-resources-project/assets/100681165/1f5db7da-e30c-4075-bab7-719cac80cae4)
@@ -70,6 +79,8 @@ The size of the image should be less than **300 Kb**
 4. Each folder has a **.md file**
 5. **Drag and drop your image** in the .md file in the appropriate position.
 
+Note: The size of the image should be less than 300 KB.
+
 ## 🎥 Watch this Video 
 [![Youtube Video](https://i.ytimg.com/vi/eRVFZDIWPj8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFUoVTAP&rs=AOn4CLCvHosmljs19P9PRHlDr7ule1T8AA)](https://www.youtube.com/watch?v=eRVFZDIWPj8)
 
@@ -82,7 +93,7 @@ We welcome contributions from the community! If you're interested in contributin
 <p align="center">
 <table>
         <tr>
-            <td align="center"><a href="https://github.com/github-username"><img alt=""
+            <td align="center"><a href="https://github.com/jayk-gupta"><img alt=""
                         src="https://avatars.githubusercontent.com/u/100681165?v=4" width="100px;"><br><sub><b> Jay Gupta
                         </b></sub></a><br></td> </a></td>
 
@@ -92,11 +103,11 @@ We welcome contributions from the community! If you're interested in contributin
 <p align="center">
 <table>
         <tr>
-            <td align="center"><a href="https://github.com/github-username"><img alt=""
-                        src="https://avatars.githubusercontent.com/u/42708550?v=4" width="100px;"><br><sub><b> Mentor Name
+            <td align="center"><a href="https://github.com/debajit13"><img alt=""
+                        src="https://avatars.githubusercontent.com/u/42708550?v=4" width="100px;"><br><sub><b>Debajit Mallick
                         </b></sub></a><br></td> </a></td>
-            <td align="center"><a href="https://github.com/github-username"><img alt=""
-                        src="https://avatars.githubusercontent.com/u/47475007?v=4" width="100px;"><br><sub><b> Mentor Name
+            <td align="center"><a href="https://github.com/varun-singhh"><img alt=""
+                        src="https://avatars.githubusercontent.com/u/47475007?v=4" width="100px;"><br><sub><b>Varun Singh
                         </b></sub></a><br></td></a></td>
 </table>
 
@@ -124,5 +135,11 @@ To star this repository, simply click on the **Star** button at the top-right co
 
 
 # License
-MIT License
+MIT License. This project is licensed under the MIT License.
+
+
+
+
+
+
 
